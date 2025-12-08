@@ -18,7 +18,7 @@
 # 【開発者情報】
 - 伊関 拓夢(いせき たくむ)
 - GC教員
-- 要望、不具合バグ報告、ゲーム追加依頼等ありましたらTeamsDMや[Issues](https://github.com/Ukun115/StudentProductions/issues)からご連絡お願いいたします。
+- 要望、不具合バグ報告、ゲーム追加依頼等ありましたらTeamsDMや[Issues](https://github.com/Ukun115/StudentProductions/issues)、[自由チャット](https://github.com/Ukun115/StudentProductions/discussions/1)からご連絡お願いいたします。
 
 ---
 
