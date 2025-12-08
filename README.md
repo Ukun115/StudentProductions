@@ -1,12 +1,12 @@
 # 【目次】
-1. [最終更新](https://github.com/Ukun115/StudentProductions/edit/main/README.md#%E6%9C%80%E7%B5%82%E6%9B%B4%E6%96%B0)
-2. [開発者情報](https://github.com/Ukun115/StudentProductions/edit/main/README.md#%E6%9C%80%E7%B5%82%E6%9B%B4%E6%96%B0)
-3. [ゲームランチャーDLから起動まで](https://github.com/Ukun115/StudentProductions/edit/main/README.md#%E6%9C%80%E7%B5%82%E6%9B%B4%E6%96%B0)
-4. [ゲームランチャー起動からゲーム起動まで](https://github.com/Ukun115/StudentProductions/edit/main/README.md#%E6%9C%80%E7%B5%82%E6%9B%B4%E6%96%B0)
-5. [DLしたゲームは何処へ](https://github.com/Ukun115/StudentProductions/edit/main/README.md#%E6%9C%80%E7%B5%82%E6%9B%B4%E6%96%B0)
-6. [ゲームランチャー詳細](https://github.com/Ukun115/StudentProductions/edit/main/README.md#%E6%9C%80%E7%B5%82%E6%9B%B4%E6%96%B0)
-7. [ゲームランチャーバージョン表記規則](https://github.com/Ukun115/StudentProductions/edit/main/README.md#%E6%9C%80%E7%B5%82%E6%9B%B4%E6%96%B0)
-8. [Releases構成](https://github.com/Ukun115/StudentProductions/edit/main/README.md#%E6%9C%80%E7%B5%82%E6%9B%B4%E6%96%B0)
+1. [最終更新](https://github.com/Ukun115/StudentProductions?tab=readme-ov-file#%E6%9C%80%E7%B5%82%E6%9B%B4%E6%96%B0)
+2. [開発者情報](https://github.com/Ukun115/StudentProductions?tab=readme-ov-file#%E9%96%8B%E7%99%BA%E8%80%85%E6%83%85%E5%A0%B1)
+3. [ゲームランチャーDLから起動まで](https://github.com/Ukun115/StudentProductions?tab=readme-ov-file#%E9%96%8B%E7%99%BA%E8%80%85%E6%83%85%E5%A0%B1)
+4. [ゲームランチャー起動からゲーム起動まで](https://github.com/Ukun115/StudentProductions?tab=readme-ov-file#%E9%96%8B%E7%99%BA%E8%80%85%E6%83%85%E5%A0%B1)
+5. [DLしたゲームは何処へ](https://github.com/Ukun115/StudentProductions?tab=readme-ov-file#%E9%96%8B%E7%99%BA%E8%80%85%E6%83%85%E5%A0%B1)
+6. [ゲームランチャー詳細](https://github.com/Ukun115/StudentProductions?tab=readme-ov-file#%E9%96%8B%E7%99%BA%E8%80%85%E6%83%85%E5%A0%B1)
+7. [ゲームランチャーバージョン表記規則](https://github.com/Ukun115/StudentProductions?tab=readme-ov-file#%E9%96%8B%E7%99%BA%E8%80%85%E6%83%85%E5%A0%B1)
+8. [Releases構成](https://github.com/Ukun115/StudentProductions?tab=readme-ov-file#%E9%96%8B%E7%99%BA%E8%80%85%E6%83%85%E5%A0%B1)
 
 ---
 
