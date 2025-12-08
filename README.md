@@ -6,7 +6,7 @@
 5. [DLしたゲームは何処へ](https://github.com/Ukun115/StudentProductions?tab=readme-ov-file#dl%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AF%E4%BD%95%E5%87%A6%E3%81%B8)
 6. [ゲームランチャー詳細](https://github.com/Ukun115/StudentProductions?tab=readme-ov-file#%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%A9%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E8%A9%B3%E7%B4%B0)
 7. [ゲームランチャーバージョン表記規則](https://github.com/Ukun115/StudentProductions?tab=readme-ov-file#%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%A9%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E8%A1%A8%E8%A8%98%E8%A6%8F%E5%89%87)
-8. [Releases構成]([https://github.com/Ukun115/StudentProductions?tab=readme-ov-file#%E9%96%8B%E7%99%BA%E8%80%85%E6%83%85%E5%A0%B1](https://github.com/Ukun115/StudentProductions?tab=readme-ov-file#releases%E6%A7%8B%E6%88%90))
+8. [Releases構成](https://github.com/Ukun115/StudentProductions?tab=readme-ov-file#releases%E6%A7%8B%E6%88%90)
 
 ---
 
