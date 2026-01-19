@@ -66,7 +66,7 @@ C:\Users\"ユーザー名"\AppData\LocalLow\DefaultCompany\GameLauncher\Gamesに
 ---
 
 # 【ゲームランチャー詳細】
-サイズ：455MB
+サイズ：178MB
 
 Unityバージョン：Unity6000.0.58f2
 
