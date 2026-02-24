@@ -81,8 +81,6 @@ C:\Users\ユーザー名\AppData\LocalLow\KBC_GC_Launcher\Gamesに格納。
 # 【ゲームランチャー詳細】
 サイズ：187MB
 
-Unityバージョン：6000.3.9f1
-
 ゲームランチャープロジェクト：https://github.com/Ukun115/GameLauncher
 
 ---
